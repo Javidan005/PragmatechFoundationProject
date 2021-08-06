@@ -1,0 +1,56 @@
+#simple-css {
+    border:1px solid black; 
+    height: 350px;
+    width: 100%;
+}
+#statement {
+    border:1px solid red;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.register {
+    border:1px solid blue;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#numbers {
+    border:1px solid lightblue;
+    height: 200px;
+    width:100%;
+}
+#our-events{
+    border: 1px solid greenyellow;
+    height: 150px;
+    width: 100%;
+}
+
+.what{
+    border: 1px solid black;
+    height: 250px;
+    width: 100%;
+    margin: 20px;
+}
+.what h1,p{
+    text-align: center;
+}
+.welcome {
+    border:1px solid orange;
+    height:300px;
+    width:100%;
+}
+.ali {
+    border:1px solid yellow;
+    height:250px;
+    width:100%;
+}
+.morning {
+    border:1px solid darkorange;
+    height: 200px;
+    width:100%;
+}
