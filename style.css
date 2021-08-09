@@ -10,7 +10,7 @@ div {
   height: 400px;
   background: white;
   color: orange;
-  front-size: 40px;
+  font-size: 40px;
 }
 .box p {
   color: red;
